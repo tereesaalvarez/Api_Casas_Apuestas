@@ -2,7 +2,7 @@
 Sistema de apuestas para partidos de futbol de la UEFA Champions League 
 
 # Instalacion
-Clonar el repositorio: https://github.com/GastonFenske/Bookmaker-DS.git
+Clonar el repositorio: https://github.com/rubences/Api_Casas_Apuestas.git
 
 Crear un archivo .env utilizando de ejemplo .env-example
 
